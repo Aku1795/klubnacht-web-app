@@ -83,7 +83,7 @@ function SetsPerMonth() {
   };
 
   return (
-    <div className="App">
+      <div>
       <h1>CSV Bar Chart</h1>
       <div>
         <label htmlFor="year-slider">Select Year: </label>
